@@ -1,0 +1,238 @@
+body{
+    background-color: black;
+    color:azure;
+    /* text-align: center; */
+}
+h1{
+    color: azure;
+}
+
+h3{
+    color: azure;
+}
+
+h5{
+    color: azure;
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+
+h4{
+    color: aqua;
+}
+p{
+    color:rgb(114, 111, 111);
+}
+
+hr{
+    border: dotted #343636 6px;
+    border-bottom: none;
+    width: 6%;
+    margin: 5px auto;
+}
+
+/* .upline{
+    border: thick rgb(122, 121, 121);
+    border-bottom: none;
+} */
+
+.image-card{
+    position: relative;
+    /* height: 800px; */
+    width: 500px;
+    background-color: black;
+    color: #333;
+    border-radius: 2px;
+    box-shadow: 0 3px 20px rgba( 0, 0, 0, 0.2);
+    padding: 10px;
+    margin-left:50px;
+    
+}
+
+.intro{
+    text-align: center;
+    line-height: 0.3;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+.socials img{
+    width: 35px;
+    height: 35px;
+}
+
+.facebook{
+    position: absolute;  
+    left: 120px; 
+    top: 600px;
+}
+.whatsapp{
+    position: absolute;
+    left: 185px;
+    top: 600px;
+}
+.instagram{
+    position: absolute;
+    left: 250px;
+    top: 600px;
+}
+.telegram{
+    position: absolute; 
+    left: 325px;
+    top: 600px;   
+}
+
+.name{
+    color: azure;
+    font-weight: bold;
+    font-size: 2.2rem;
+    
+}
+
+.me{
+    height:auto;
+    width: 500px;
+}
+
+
+.container{
+    position: relative;
+    background-color:rgb(36, 38, 38);
+    width: 90%;
+    margin: 50px auto;
+    padding: auto;
+    
+}
+
+.portfolio{
+    position:absolute;
+    left:600px;
+    top: 10px;
+
+}
+
+
+.portfolio img{
+    width: 28px;
+    margin-bottom: 0;
+}
+
+.services{
+    position: relative;
+    height: 330px;
+}
+
+.development{
+    width: 40%;
+    margin-top: 0;
+    position: absolute;
+    left: 10px;
+}
+
+.seo{
+    width: 40%;
+    margin-top: 0;
+    position: absolute;
+    left: 250px;
+}
+
+.data-base{
+    width: 40%;
+    margin-top: 0;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+
+.data-security{
+    width: 40%;
+    margin-top: 0;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+
+.skills{
+    height: 120px;
+    position: relative;
+    width: 600px;
+    background-color:black;
+    /* rgb(36, 38, 38); */
+    border-radius: 2px;
+    box-shadow: 0 3px 20px rgba(96, 94, 94, 0.2);
+    padding: 10px;
+}
+
+.skills img{
+    height: 50px;
+    width: 50px;
+}
+
+.html{
+    position: absolute;
+    left: 10px;
+}
+.bootstrap{
+    position: absolute;
+    left: 110px;
+}
+.javascript{
+    position: absolute;
+    left: 210px;
+}
+.photoshop{
+    position: absolute;
+    left: 310px;    
+}
+
+.outcons img{
+    width: 30px;
+    height: 30px;
+}
+.user{
+    position: absolute; 
+    top: 160px ;  
+    left: 8px; 
+}
+.phone{
+    position: absolute;
+    top: 210px ;  
+    left: 8px; 
+}
+.write{
+    position: absolute;
+    top: 270px ;  
+    left: 8px; 
+}
+.briefcase{
+    position: absolute;
+    top: 330px ;  
+    left: 8px; 
+}
+.view{
+    position: absolute;
+    top: 390px ;  
+    left: 8px; 
+}
+
+.cloud{
+
+    position: absolute;
+    top: 630px;
+    left: 0;
+}
+
+.cloud img{
+    width: 55px;
+    height: 60px;
+}
+footer{
+    background-color: rgb(36, 38, 38);
+    padding: 10px auto;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    text-align: center;
+}
+.footer{
+    padding: 20px 0;
+}
